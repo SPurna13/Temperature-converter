@@ -7,11 +7,9 @@
 body{
     background-image: url("https://www.ist-ag.com/sites/default/files/styles/x_large_full_width/public/media/header/2022-02/Temperatur_Header_web.jpg?itok=eJBspLoR");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
     height:100vh;
     width:100vw;
-/*     position:fixed; */
-    scroll-behaviour:auto;
 }
 h1{
     color:rgb(7, 7, 64);
